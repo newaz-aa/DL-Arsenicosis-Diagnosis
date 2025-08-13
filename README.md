@@ -27,3 +27,5 @@ A deep learning project for diagnosing arsenicosis from mobile-captured skin ima
 [![ViT](https://img.shields.io/badge/ViT-PyTorch-lightblue)](https://github.com/facebookresearch/deit)
 [![Swin Transformer](https://img.shields.io/badge/Swin-Transformer-lightgreen)](https://github.com/microsoft/Swin-Transformer)
 [![DeiT](https://img.shields.io/badge/DeiT-PyTorch-yellow)](https://github.com/facebookresearch/deit)
+
+## Results
