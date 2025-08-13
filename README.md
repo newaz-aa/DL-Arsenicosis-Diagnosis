@@ -11,4 +11,19 @@ A deep learning project for diagnosing arsenicosis from mobile-captured skin ima
 [![LIME](https://img.shields.io/badge/LIME-0.2-yellow)](https://github.com/marcotcr/lime)
 
 
+## Features
+- Data Curation from various sources. Images captured by mobile phones for arsenic-affected skin regions, along with 19 other skin lesions.
+- Training CNN and ViT architectures
+- Explains predictions using LIME
+- Web deployment using Streamlit (or Flask/Gradio) - (in progress)
 
+## DL Models Deployed
+
+[![VGG16](https://img.shields.io/badge/VGG16-ImageNet-orange)](https://keras.io/api/applications/vgg/#vgg16-function)
+[![InceptionV3](https://img.shields.io/badge/InceptionV3-ImageNet-blue)](https://keras.io/api/applications/inceptionv3/)
+[![EfficientNetB0](https://img.shields.io/badge/EfficientNetB0-ImageNet-green)](https://keras.io/api/applications/efficientnet/)
+[![Xception](https://img.shields.io/badge/Xception-ImageNet-purple)](https://keras.io/api/applications/xception/)
+[![MobileNetV2](https://img.shields.io/badge/MobileNetV2-ImageNet-red)](https://keras.io/api/applications/mobilenet/#mobilenetv2-function)
+[![ViT](https://img.shields.io/badge/ViT-PyTorch-lightblue)](https://github.com/facebookresearch/deit)
+[![Swin Transformer](https://img.shields.io/badge/Swin-Transformer-lightgreen)](https://github.com/microsoft/Swin-Transformer)
+[![DeiT](https://img.shields.io/badge/DeiT-PyTorch-yellow)](https://github.com/facebookresearch/deit)
