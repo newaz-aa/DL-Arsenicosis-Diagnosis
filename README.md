@@ -33,3 +33,6 @@ A deep learning project for diagnosing arsenicosis from mobile-captured skin ima
 ![App Screenshot](https://github.com/newaz-aa/DL-Arsenicosis-Diagnosis/blob/main/Results/Xception_training_curves.png)
 
 ![App Screenshot](https://github.com/newaz-aa/DL-Arsenicosis-Diagnosis/blob/main/Results/Xception_confusion_matrix.png)
+
+![App Screenshot](https://github.com/newaz-aa/DL-Arsenicosis-Diagnosis/blob/main/Data/Arsenic_2x2_block_2.png)
+
