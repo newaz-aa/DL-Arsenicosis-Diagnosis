@@ -29,3 +29,7 @@ A deep learning project for diagnosing arsenicosis from mobile-captured skin ima
 [![DeiT](https://img.shields.io/badge/DeiT-PyTorch-yellow)](https://github.com/facebookresearch/deit)
 
 ## Results
+
+![App Screenshot](https://github.com/newaz-aa/DL-Arsenicosis-Diagnosis/blob/main/Results/Xception_training_curves.png)
+
+![App Screenshot](https://github.com/newaz-aa/DL-Arsenicosis-Diagnosis/blob/main/Results/Xception_confusion_matrix.png)
