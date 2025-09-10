@@ -13,9 +13,11 @@ A deep learning project for diagnosing arsenicosis from mobile-captured skin ima
 
 ## Features
 - Data Curation from various sources. Images captured by mobile phones for arsenic-affected skin regions, along with 19 other skin lesions.
-- Training CNN and ViT architectures
-- Explains predictions using LIME
+- Training CNN and Transformer architectures
+- Explains predictions using LIME and Grad-CAM
+- External Validation
 - Web deployment using Streamlit (or Flask/Gradio) - (in progress)
+  
 
 ## DL Models Deployed
 
@@ -35,4 +37,10 @@ A deep learning project for diagnosing arsenicosis from mobile-captured skin ima
 ![App Screenshot](https://github.com/newaz-aa/DL-Arsenicosis-Diagnosis/blob/main/Results/Xception_confusion_matrix.png)
 
 ![App Screenshot](https://github.com/newaz-aa/DL-Arsenicosis-Diagnosis/blob/main/Data/Arsenic_2x2_block_2.png)
+
+## Model Deployment
+
+Details can be found in the following repositories -
+- https://github.com/RSS-code/Arsenic-classifier_videos
+- https://github.com/mmehzad/newazsir_ra
 
