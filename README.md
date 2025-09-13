@@ -44,3 +44,15 @@ Details can be found in the following repositories -
 - https://github.com/RSS-code/Arsenic-classifier_videos
 - https://github.com/mmehzad/newazsir_ra
 
+## 📑 Citation
+
+If you find this work useful, please cite our paper:
+
+```bibtex
+@article{newaz2025arsenicosis,
+  title   = {An End-to-End Deep Learning Framework for Arsenicosis Diagnosis Using Mobile-Captured Skin Images},
+  author  = {Newaz, Asif and [co-authors]},
+  journal = {arXiv preprint arXiv:2509.08780},
+  year    = {2025}
+}
+
